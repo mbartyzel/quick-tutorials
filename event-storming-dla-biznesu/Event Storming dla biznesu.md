@@ -78,6 +78,8 @@ Materiały dla 1 uczestnika warsztatu
 4. Uczestnicy przyklejają zdarzenia na ścianę
 5. Jeśli uczestnicy mają jakieś pytania albo wątpliwości, poproś aby umieścili na ścianie hot-spot
 
+Wyjaśnienie dlaczego zdarzenia są aż tak ważne, znajdziesz w moim artykule **[Dlaczego zdarzenia są ważne?](https://www.michalbartyzel.pl/2019/05/event-storming-dlaczego-zdarzenia-sa-wazne.html)** ;)
+
 ## Etap 2 - Pierwsze porządkowanie
 
 * Element słownika: żółta kartka w linie

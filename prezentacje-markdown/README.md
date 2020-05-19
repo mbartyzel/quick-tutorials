@@ -1,5 +1,7 @@
 # Prezentacje w Markdown
 
+Sklonuj to repo lub oglądaj plik [slides.md](slides.md) w podlądzie `Raw`
+
 * Prezentacje tworzysz w Markdown
 * Tutaj jest [opis składni](https://marpit.marp.app/markdown)
 * Silnik renderujacy to [Marpit](https://marpit.marp.app)

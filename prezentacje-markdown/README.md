@@ -1,6 +1,6 @@
 # Prezentacje w Markdown
 
-Sklonuj to repo lub oglądaj plik [slides.md](slides.md) w podlądzie `Raw`
+Plik [slides.md](slides.md) zawiera kod źródłowy prezentacji.
 
 * Prezentacje tworzysz w Markdown
 * Tutaj jest [opis składni](https://marpit.marp.app/markdown)

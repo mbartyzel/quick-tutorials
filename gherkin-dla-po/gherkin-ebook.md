@@ -227,7 +227,6 @@ Dla ułatwienia w skrypcie posługiwaliśmy się polską wersją języka Gherkin
 | `Wtedy` 		   		| `Then`       		 |
 | `Oraz`           		| `And`        		 |
 | `Ale`            		| `But`        		 |
-| `Założenia`      	 	| `Background`		 |
 | `Przykłady`   	    | `Examples` 		 |
 | `Szablon scenariusza` | `Scenario Outline` |
 
